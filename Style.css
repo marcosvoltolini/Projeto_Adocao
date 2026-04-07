@@ -2,11 +2,26 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: rgb(151, 101, 36);
+    background-color:rgb(165, 81, 42);
+    color: rgb(190, 143, 80);
 }
 #salsicha {
     width: 70px;
 }
 body {
-    background-color: rgb(197, 146, 79);
+    background-color: rgb(190, 143, 80);
+}
+#lfor{
+    color: rgb(146, 81, 38);
+    font-size: 30px;
+    
+}
+#log{
+    color: rgb(192, 136, 110);
+}
+#dog{
+    width: 50px;
+}
+#dogtris{
+    width: 60px;
 }
