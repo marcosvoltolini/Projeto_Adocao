@@ -1,0 +1,9 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: bisque;
+}
+#salsicha {
+    width: 70px;
+}
