@@ -2,8 +2,11 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: bisque;
+    background-color: rgb(151, 101, 36);
 }
 #salsicha {
     width: 70px;
+}
+body {
+    background-color: rgb(197, 146, 79);
 }
