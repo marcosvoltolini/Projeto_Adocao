@@ -25,3 +25,11 @@ body {
 #dogtris{
     width: 60px;
 }
+.logzin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size:x-large;
+    margin: 20px;
+}
