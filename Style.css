@@ -2,29 +2,53 @@ nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color:rgb(165, 81, 42);
-    color: rgb(190, 143, 80);
+    background-color:rgb(119, 84, 68);
+    color: rgb(65, 59, 53);
 }
+
 #salsicha {
     width: 70px;
 }
+
 body {
     background-color: rgb(190, 143, 80);
+    background-image: url(assets/wall3.webp);
+    background-repeat: no-repeat;    
+    background-size: cover;
+    margin: 0px;
 }
+
+.bodi{
+    background-image: url(assets/wall2.jpg);
+    margin: 0px;
+}
+
+.navlog{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:rgb(99, 87, 64);
+    color: rgb(255, 255, 255);
+}
+
 #lfor{
     color: rgb(146, 81, 38);
     font-size: 30px;
     
 }
+
 #log{
     color: rgb(192, 136, 110);
 }
+
 #dog{
     width: 50px;
 }
+
 #dogtris{
     width: 60px;
 }
+
 .logzin {
     display: flex;
     justify-content: center;
@@ -32,4 +56,36 @@ body {
     text-align: center;
     font-size:x-large;
     margin: 20px;
+    
+}
+
+#form{
+border: 5px solid rgb(99, 87, 64);
+background-color: white;
+border-radius: 30px;
+padding: 10px;
+width: 400px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#adotar{
+ display: flex;
+ margin: 10px;
+ gap: 50px;
+ justify-content: center;
+}
+
+.Dogs{
+     margin: 20 px;
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+    border: 5px solid rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    border-radius: 25px;
+}
+
+#posso{
+    border-radius: 25px;
+    width: 280px;
+    margin: 10px;
 }
