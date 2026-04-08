@@ -1,3 +1,3 @@
-const form = document.getElementById("form");
-
-const 
+document.getElementById("form").addEventListener("submit",function (e) {
+    e.preventDefault();
+}
